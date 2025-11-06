@@ -3,6 +3,7 @@ using System;
 using LibraryManagementSystem.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace LibraryManagementSystem.Migrations
 {
     [DbContext(typeof(LibraryDbContext))]
-    partial class LibraryDbContextModelSnapshot : ModelSnapshot
+    [Migration("20251106062819_AddLibraryAndMember")]
+    partial class AddLibraryAndMember
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "8.0.0");
@@ -85,20 +88,6 @@ namespace LibraryManagementSystem.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Libraries");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Address = "Main Road",
-                            Name = "Central City Library"
-                        },
-                        new
-                        {
-                            Id = 2,
-                            Address = "Park Street",
-                            Name = "Community Library"
-                        });
                 });
 
             modelBuilder.Entity("LibraryManagementSystem.Models.Member", b =>
@@ -118,20 +107,6 @@ namespace LibraryManagementSystem.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Members");
-
-                    b.HasData(
-                        new
-                        {
-                            Id = 1,
-                            Email = "alice@example.com",
-                            Name = "Alice Johnson"
-                        },
-                        new
-                        {
-                            Id = 2,
-                            Email = "bob@example.com",
-                            Name = "Bob Williams"
-                        });
                 });
 
             modelBuilder.Entity("LibraryManagementSystem.Models.Book", b =>

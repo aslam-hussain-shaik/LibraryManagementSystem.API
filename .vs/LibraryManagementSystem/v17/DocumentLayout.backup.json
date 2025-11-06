@@ -1,46 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20251106054600_SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementSystem\\Migrations\\20251106054600_SeedData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\repositories\\memberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\onedrive\\desktop\\dotnet\\librarymanagementsystem\\librarymanagementsystem\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\repositories\\libraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\repositories\\libraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\onedrive\\desktop\\dotnet\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\onedrive\\desktop\\dotnet\\librarymanagementsystem\\librarymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\onedrive\\desktop\\dotnet\\librarymanagementsystem\\librarymanagementsystem\\migrations\\20251106054314_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\migrations\\20251106054314_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\onedrive\\desktop\\dotnet\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\librarymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\onedrive\\desktop\\dotnet\\librarymanagementsystem\\librarymanagementsystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\onedrive\\desktop\\dotnet\\librarymanagementsystem\\librarymanagementsystem\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\onedrive\\desktop\\dotnet\\librarymanagementsystem\\librarymanagementsystem\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\controllers\\memberscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\controllers\\librariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\controllers\\librariescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\repositories\\ilibraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\repositories\\ilibraryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20251106063140_SeedLibraryAndMemberData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementSystem\\Migrations\\20251106063140_SeedLibraryAndMemberData.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\data\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20251106062819_AddLibraryAndMember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LibraryManagementSystem\\Migrations\\20251106062819_AddLibraryAndMember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\librarymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\librarymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\repositories\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\repositories\\imemberrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\migrations\\20251106054314_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\migrations\\20251106054314_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\repositories\\ibookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\onedrive\\desktop\\dotnet\\librarymanagementsystem\\librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|c:\\users\\aslam\\source\\repos\\librarymanagementsystem\\librarymanagementsystem\\migrations\\20251106054600_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2B3DD11-F851-498C-858E-C613C71E815C}|LibraryManagementSystem\\LibraryManagementSystem.csproj|solutionrelative:librarymanagementsystem\\migrations\\20251106054600_seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,137 +90,263 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20251106054600_SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20251106054600_SeedData.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\Migrations\\20251106054600_SeedData.cs",
-              "ToolTip": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20251106054600_SeedData.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\Migrations\\20251106054600_SeedData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T05:46:00.523Z",
+              "WhenOpened": "2025-11-06T05:19:57.416Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20251106054314_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20251106054314_InitialCreate.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\Migrations\\20251106054314_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20251106054314_InitialCreate.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\Migrations\\20251106054314_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "LibraryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Repositories\\LibraryRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Repositories\\LibraryRepository.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Repositories\\LibraryRepository.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Repositories\\LibraryRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T05:43:14.644Z",
+              "WhenOpened": "2025-11-06T06:13:43.149Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\Program.cs",
-              "ToolTip": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Program.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T05:19:57.416Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\appsettings.json",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\appsettings.json",
-              "ToolTip": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\appsettings.json",
-              "RelativeToolTip": "LibraryManagementSystem\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-06T05:19:21.071Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "BookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Repositories\\BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Repositories\\BookRepository.cs",
-              "ToolTip": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Repositories\\BookRepository.cs",
               "RelativeToolTip": "LibraryManagementSystem\\Repositories\\BookRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T05:14:07.936Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T04:59:51.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibrariesController.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\LibrariesController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Controllers\\LibrariesController.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\LibrariesController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Controllers\\LibrariesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:19:11.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MembersController.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\MembersController.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Controllers\\MembersController.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\MembersController.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Controllers\\MembersController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:19:50.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Repositories\\MemberRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Repositories\\MemberRepository.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Repositories\\MemberRepository.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Repositories\\MemberRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAA1wA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:15:39.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILibraryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Repositories\\ILibraryRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Repositories\\ILibraryRepository.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Repositories\\ILibraryRepository.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Repositories\\ILibraryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:13:10.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20251106062819_AddLibraryAndMember.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20251106062819_AddLibraryAndMember.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Migrations\\20251106062819_AddLibraryAndMember.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20251106062819_AddLibraryAndMember.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Migrations\\20251106062819_AddLibraryAndMember.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:28:20.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20251106063140_SeedLibraryAndMemberData.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20251106063140_SeedLibraryAndMemberData.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Migrations\\20251106063140_SeedLibraryAndMemberData.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20251106063140_SeedLibraryAndMemberData.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Migrations\\20251106063140_SeedLibraryAndMemberData.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T06:31:41.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "LibraryDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Data\\LibraryDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Data\\LibraryDbContext.cs",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\Data\\LibraryDbContext.cs",
-              "ToolTip": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Data\\LibraryDbContext.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Data\\LibraryDbContext.cs",
               "RelativeToolTip": "LibraryManagementSystem\\Data\\LibraryDbContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBAAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAUwCEAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T05:10:40.789Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IBookRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Repositories\\IBookRepository.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\Repositories\\IBookRepository.cs",
-              "ToolTip": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Repositories\\IBookRepository.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\Repositories\\IBookRepository.cs",
+              "DocumentIndex": 12,
+              "Title": "IMemberRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Repositories\\IMemberRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Repositories\\IMemberRepository.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Repositories\\IMemberRepository.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Repositories\\IMemberRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T05:13:42.761Z",
+              "WhenOpened": "2025-11-06T06:15:22.367Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LibraryManagementSystem",
-              "DocumentMoniker": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "DocumentIndex": 10,
+              "Title": "LibraryManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
               "RelativeDocumentMoniker": "LibraryManagementSystem\\LibraryManagementSystem.csproj",
-              "ToolTip": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
               "RelativeToolTip": "LibraryManagementSystem\\LibraryManagementSystem.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-11-06T05:00:24.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Book.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\Models\\Book.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAcAAAA6AAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Member.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Member.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Member.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Member.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T05:00:46.794Z",
+              "WhenOpened": "2025-11-06T06:12:28.17Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BooksController.cs",
-              "DocumentMoniker": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\BooksController.cs",
-              "RelativeDocumentMoniker": "LibraryManagementSystem\\Controllers\\BooksController.cs",
-              "ToolTip": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\Controllers\\BooksController.cs",
-              "RelativeToolTip": "LibraryManagementSystem\\Controllers\\BooksController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAArwC8AAAAyAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Library.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Library.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Library.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T04:59:51.169Z",
+              "WhenOpened": "2025-11-06T06:12:08.775Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\appsettings.json",
+              "RelativeToolTip": "LibraryManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-06T05:19:21.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20251106054600_SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20251106054600_SeedData.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Migrations\\20251106054600_SeedData.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20251106054600_SeedData.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Migrations\\20251106054600_SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T05:46:00.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251106054314_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20251106054314_InitialCreate.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Migrations\\20251106054314_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Migrations\\20251106054314_InitialCreate.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Migrations\\20251106054314_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T05:43:14.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IBookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Repositories\\IBookRepository.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Repositories\\IBookRepository.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Repositories\\IBookRepository.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Repositories\\IBookRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T05:13:42.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibraryManagementSystem\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\Models\\Book.cs",
+              "RelativeToolTip": "LibraryManagementSystem\\Models\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwAcAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-06T05:00:46.794Z"
             }
           ]
         }

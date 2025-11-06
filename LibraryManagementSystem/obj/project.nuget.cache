@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LGAgl6lbEGs=",
+  "dgSpecHash": "0cCSrwN0x3o=",
   "success": true,
-  "projectFilePath": "C:\\Users\\aslam\\OneDrive\\Desktop\\Dotnet\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
+  "projectFilePath": "C:\\Users\\aslam\\source\\repos\\LibraryManagementSystem\\LibraryManagementSystem\\LibraryManagementSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aslam\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\aslam\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
@@ -25,6 +25,7 @@
     "C:\\Users\\aslam\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite\\8.0.0\\microsoft.entityframeworkcore.sqlite.8.0.0.nupkg.sha512",
     "C:\\Users\\aslam\\.nuget\\packages\\microsoft.entityframeworkcore.sqlite.core\\8.0.0\\microsoft.entityframeworkcore.sqlite.core.8.0.0.nupkg.sha512",
     "C:\\Users\\aslam\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\8.0.0\\microsoft.entityframeworkcore.sqlserver.8.0.0.nupkg.sha512",
+    "C:\\Users\\aslam\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\8.0.0\\microsoft.entityframeworkcore.tools.8.0.0.nupkg.sha512",
     "C:\\Users\\aslam\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\aslam\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\8.0.0\\microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\aslam\\.nuget\\packages\\microsoft.extensions.caching.memory\\8.0.0\\microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",

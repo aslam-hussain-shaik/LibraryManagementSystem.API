@@ -12,6 +12,8 @@ builder.Services.AddDbContext<LibraryDbContext>(options =>
 });
 
 builder.Services.AddScoped<IBookRepository, BookRepository>();
+builder.Services.AddScoped<ILibraryRepository, LibraryRepository>();
+builder.Services.AddScoped<IMemberRepository, MemberRepository>();
 
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

@@ -17,8 +17,10 @@ namespace LibraryManagementSystem.Controllers
         }
 
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Book>>> GetAll() =>
-            Ok(await _bookRepository.GetAllAsync());
+        public async Task<ActionResult<IEnumerable<Book>>> GetAll()
+        {
+            return Ok(await _bookRepository.GetAllAsync());
+        }
 
         [HttpGet("{id}")]
         public async Task<ActionResult<Book>> Get(int id)
